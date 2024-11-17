@@ -1,6 +1,9 @@
 # Shipping Data Warehouse Project
 
-A dimensional data warehouse design for tracking and analyzing global shipping operations, including shipment tracking, event monitoring, and cost analysis.![image](https://github.com/user-attachments/assets/7d3bfbe4-2e99-4d06-adac-41ae1a479c1d)
+A dimensional data warehouse design for tracking and analyzing global shipping operations, including shipment tracking, event monitoring, and cost analysis.
+
+
+![image](https://github.com/user-attachments/assets/7d3bfbe4-2e99-4d06-adac-41ae1a479c1d)
 
 ![image](https://github.com/user-attachments/assets/f83b7c96-a58b-4c28-9580-daab574d3478)
 
