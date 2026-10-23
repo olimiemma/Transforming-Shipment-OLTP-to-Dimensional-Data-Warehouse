@@ -202,3 +202,5 @@ Feel free to contribute to this project by:
 ## License
 
 MIT License - feel free to use and modify for your needs.
+
+By Emmanuel K
